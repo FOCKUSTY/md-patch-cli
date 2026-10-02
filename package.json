@@ -1,10 +1,10 @@
 {
   "name": "md-patch-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
-    "mp": "dist/index.js"
+    "mpc": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
