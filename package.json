@@ -1,0 +1,34 @@
+{
+  "name": "md-patch-cli",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./dist/index.js",
+  "bin": {
+    "mp": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "description": "",
+  "homepage": "https://github.com/FOCKUSTY/md-patch-cli#readme",
+  "bugs": {
+    "url": "https://github.com/FOCKUSTY/md-patch-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOCKUSTY/md-patch-cli.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "FOCKUSTY",
+    "email": "viserd.yt@gmail.com",
+    "url": "https://fockusty.vercel.app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^6.0.3"
+  }
+}
